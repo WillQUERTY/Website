@@ -36,3 +36,10 @@ footer {
     width: 100%;
     bottom: 0;
 }
+#banner {
+    background-image: url('ruta/a/tu/imagen.jpg');
+    height: 300px; /* Ajusta esto a la altura que desees para tu banner */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
